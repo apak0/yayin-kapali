@@ -1,0 +1,36 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.text {
+  font-family: "ko";
+}
+.text {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  font-size: 300px;
+  font-family: "JudasCaps Wd";
+
+  background: radial-gradient(circle at 90% 90%, #7ae4ff, #3e3bff);
+}
+
+.textorigin {
+  color: #d6d4ce;
+
+  text-shadow: #403830 5px 0 5px;
+}
+
+/* shadow color #988f86 */
+/*background: linear-gradient(to right top, #c51659, #6cdbeb);*/
+
+/*color: linear-gradient(#9b70be, #d1b9e638);
+
+  background: linear-gradient(to right top, #c51659, #6cdbeb);*/
